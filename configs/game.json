@@ -86,5 +86,17 @@
         "private_key_file": "private.key",
         "public_key_file": "public.key",
         "deployment_ids": ["1"]
+    }],
+    "https://saltire.lti.app/platform": [{
+        "default": true,
+        "client_id": "saltire.lti.app",
+        "auth_login_url": "https://saltire.lti.app/platform/auth",
+        "auth_token_url": "https://saltire.lti.app/platform/token/sce2c724fb0db942e8077bcfa7bcbd5e7",
+        "auth_audience": null,
+        "key_set_url": "https://saltire.lti.app/platform/jwks/sce2c724fb0db942e8077bcfa7bcbd5e7",
+        "key_set": null,
+        "private_key_file": "private.key",
+        "public_key_file": "public.key",
+        "deployment_ids": ["1"]
     }]
 }
